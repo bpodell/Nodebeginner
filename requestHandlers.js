@@ -51,3 +51,6 @@ function show(response) {
 exports.start = start;
 exports.upload = upload;
 exports.show = show;
+function test(x) {
+  return x * 2;
+}
